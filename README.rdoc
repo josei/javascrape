@@ -4,7 +4,7 @@
 
 Client-side jQuery console for quick screen scraping. Uses a server-side proxy to avoid same-origin policy issues. Implemented using sinatra-synchrony for concurrent requests.
 
-Live at http://javascrape.herokuapp.com
+Live at http://javascrape.com
 
 == LICENSE:
 
